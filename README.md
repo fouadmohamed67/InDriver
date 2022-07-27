@@ -1,5 +1,5 @@
-Description
-Phase1 Requirments
+# Description
+# Phase1 Requirments
 The user should be able to register to the system. The user should provide username, mobile number, email (optional), and password. If the user is going to register to the system as a driver so the driving license and national id should be provided. The user should be able to login into the system once the registration is completed. If the user registers as a driver, so the user should be able to login into the system once the admin user verify the registration
 The admin user should be able to verify driver registration. So the admin should be able to list all pending driver registrations and verify any pending driver registration.
 The user should be able to request a ride given a source and a destination. For a simplicity user can enter the source area’s name and the destination area’s name.
