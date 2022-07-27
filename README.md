@@ -1,5 +1,5 @@
 # Description
-# Phase1 Requirments
+# sprint2 Requirments
 1-The user should be able to register to the system. The user should provide username, mobile number, email (optional), and password. If the user is going to register to the system as a driver so the driving license and national id should be provided. The user should be able to login into the system once the registration is completed. If the user registers as a driver, so the user should be able to login into the system once the admin user verify the registration.<br>
 2-The admin user should be able to verify driver registration. So the admin should be able to list all pending driver registrations and verify any pending driver registration.<br>
 3-The user should be able to request a ride given a source and a destination. For a simplicity user can enter the source area’s name and the destination area’s name<br>
@@ -9,4 +9,9 @@
 7-The user should be able to rate any driver. The user should provide a star rating to the driver from 1 to 5 (1 worst, 5 Best)<br>
 8-The driver should be able to list user ratings. All user ratings should be visible to the driver. <br>
 9-The user should be able to check the average rating for the driver. The driver’s information should include the average user rating.<br>
+<br><br>
+# sprint2 Requirments
+1.You need to expose Phase 1 requirements as a web services, and apply design patterns to those requirements as needed within sprint 1 requirements.<br>
+2.The admin should be able to show the events that happened on a specific rides. Therefore, we need to save every action happened on every ride. The possible actions are
+  ->Captain put a price to the ride (To show this event, event name, event time, captain name and the price should be printed)
 
